@@ -1,13 +1,3 @@
----
-
-<p align="center">
-  <img src="screenshots/banner.png" alt="Pong Game Banner" width="600"/>
-</p>
-<h1 align="center">Pong Game 🎾</h1>
-<p align="center">Classic 2-player Pong implemented in Python using the turtle module</p>
-
----
-
 # Pong Game 🎾
 
 A classic 2-player Pong game implemented in Python using the `turtle` module. Players control paddles to bounce the ball and score points against each other.
