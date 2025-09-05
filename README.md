@@ -55,7 +55,7 @@ Pong-Game/
 ├── screenshots/        # Folder for screenshots
 │    ├── screenshot1.png
 │    └── screenshot2.png
-└── README.md           # Project documentation
+└── README.md           
 ```
 
 ---
